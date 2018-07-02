@@ -1,5 +1,5 @@
 import java.util.*;
-public class Sroot {
+public class SRoot {
   public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
     ArrayList<Integer> workList = new ArrayList<Integer>();
